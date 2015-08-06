@@ -1,0 +1,13 @@
+puts "Please enter the type of word when prompted"
+	puts "Name an Adjective"
+	Adjective=gets
+	puts "Name a Noun"
+	Noun=gets
+	puts "Name an Animal"
+	Animal=gets
+	puts "Name a Noise"
+	Sound=gets
+
+puts "
+  #{Adjective}  Macdonald had a   #{Noun}   E-I-E-I-O and on that   #{Noun}  he had a  + Animal  E-I-E-I-O" 
+  
